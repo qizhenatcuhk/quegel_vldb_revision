@@ -1,7 +1,7 @@
 
 /**
  * @file
- * @author  Jinfeng Li <akyrola@cs.cmu.edu>
+ * @author  Jinfeng Li
  * @version 1.0
  *
  * @section LICENSE
